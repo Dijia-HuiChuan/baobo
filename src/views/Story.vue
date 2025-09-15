@@ -38,7 +38,7 @@
       </div>
     </section>
     <section
-      class="h-max md:h-[592px] mt-10 max-md:px-2 section"
+      class="mt-10 h-max max-md:px-2 section"
       style="background-image: url('/src/assets/story-bg.png')"
     >
       <div
